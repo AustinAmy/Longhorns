@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/branigan/cjzsvonse027m1co4nkxp13b3?fresh=true',
+    style: 'mapbox://styles/vizdr/ckj1kb5xn1mgi19pcgd4zi943?fresh=true',
     accessToken: 'pk.eyJ1Ijoidml6ZHIiLCJhIjoiY2tpdDdrajZjMDU0bDJ6cGZ0eGg5dWJlZiJ9.kdstA7jTfBQPbZqOt5zuNw',
     showMarkers: false,
     theme: 'light',
